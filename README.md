@@ -1,4 +1,4 @@
-# OwlBox
+# OwlBox Repository
 
 <p><b>SD Card Image (32GB)</p>
 <p>Email bkihei at kennesaw dot edu for access to secure file server to obtain the image for the SD card.</p>
